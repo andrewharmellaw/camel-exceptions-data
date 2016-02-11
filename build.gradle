@@ -1,5 +1,8 @@
+plugins {
+    id 'net.researchgate.release' version '2.3.4'
+}
+
 group 'com.capgemini'
-version '0.9.0-SNAPSHOT'
 
 apply plugin: 'java'
 apply plugin: 'maven'
